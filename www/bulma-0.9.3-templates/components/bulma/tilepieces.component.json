@@ -1,0 +1,121 @@
+{
+  "name": "bulma",
+  "description": "tilepieces component library of https://bulma.io/ version 0.9.3",
+  "version": "0.9.3",
+  "author": "simone di nuovo <dinuovos@gmail.com>",
+  "website": "https://bulma.io/",
+  "repository": "",
+  "html": "",
+  "addDependenciesToBundles": false,
+  "bundle": {
+    "stylesheet": {
+      "href": "bulma.min.css"
+    },
+    "stylesheetHeader": "",
+    "stylesheetFooter": "",
+    "scriptHeader": "",
+    "scriptFooter": "",
+    "script": {}
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": [
+      ""
+    ]
+  },
+  "dependencies": [],
+  "mergeMiscellaneous": false,
+  "miscellaneous": [],
+  "selector": "",
+  "interface": "",
+  "fixedHTML": false,
+  "parseHTML": "",
+  "terserConfiguration": "",
+  "skipMatchAll": false,
+  "components": {
+    "bulma/block": {
+      "path": "/components/bulma/block",
+      "name": "bulma/block"
+    },
+    "bulma/box": {
+      "path": "/components/bulma/box",
+      "name": "bulma/box"
+    },
+    "bulma/button": {
+      "path": "/components/bulma/button",
+      "name": "bulma/button"
+    },
+    "bulma/delete": {
+      "path": "/components/bulma/delete",
+      "name": "bulma/delete"
+    },
+    "bulma/notification": {
+      "path": "/components/bulma/notification",
+      "name": "bulma/notification"
+    },
+    "bulma/tag": {
+      "path": "/components/bulma/tag",
+      "name": "bulma/tag"
+    },
+    "bulma/breadcrumb": {
+      "path": "/components/bulma/breadcrumb",
+      "name": "bulma/breadcrumb"
+    },
+    "bulma/card": {
+      "path": "/components/bulma/card",
+      "name": "bulma/card"
+    },
+    "bulma/dropdown": {
+      "path": "/components/bulma/dropdown",
+      "name": "bulma/dropdown"
+    },
+    "bulma/menu": {
+      "path": "/components/bulma/menu",
+      "name": "bulma/menu"
+    },
+    "bulma/message": {
+      "path": "/components/bulma/message",
+      "name": "bulma/message"
+    },
+    "bulma/modal": {
+      "path": "/components/bulma/modal",
+      "name": "bulma/modal"
+    },
+    "bulma/navbar": {
+      "path": "/components/bulma/navbar",
+      "name": "bulma/navbar"
+    },
+    "bulma/pagination": {
+      "path": "/components/bulma/pagination",
+      "name": "bulma/pagination"
+    },
+    "bulma/panel": {
+      "path": "/components/bulma/panel",
+      "name": "bulma/panel"
+    },
+    "bulma/tabs": {
+      "path": "/components/bulma/tabs",
+      "name": "bulma/tabs"
+    },
+    "bulma/container": {
+      "path": "/components/bulma/container",
+      "name": "bulma/container"
+    },
+    "bulma/hero": {
+      "path": "/components/bulma/hero",
+      "name": "bulma/hero"
+    },
+    "bulma/section": {
+      "path": "/components/bulma/section",
+      "name": "bulma/section"
+    },
+    "bulma/footer": {
+      "path": "/components/bulma/footer",
+      "name": "bulma/footer"
+    },
+    "bulma/tiles": {
+      "path": "/components/bulma/tiles",
+      "name": "bulma/tiles"
+    }
+  }
+}

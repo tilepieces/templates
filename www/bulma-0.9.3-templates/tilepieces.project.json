@@ -1,0 +1,23 @@
+{
+  "name": "bulma-0.9.3-templates",
+  "components": {
+    "bulma": {
+      "name": "bulma",
+      "path": "/components/bulma"
+    },
+    "ckeditor4-tilepieces-component": {
+      "name": "ckeditor4-tilepieces-component",
+      "path": "/components/ckeditor4-tilepieces-component"
+    }
+  },
+  "lastFileOpened": "/bulma-templates-master/index.html",
+  "openedPanels": [
+    "package-manager",
+    "project-explorer",
+    "html-inspector",
+    "component-panel"
+  ],
+  "sandboxFrame": true,
+  "skipMatchAll": true,
+  "relativePaths": true
+}

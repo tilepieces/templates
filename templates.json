@@ -1,0 +1,32 @@
+[
+  {
+    "name": "bootstrap-5.1.3-templates",
+    "path": "bootstrap-5.1.3-templates",
+    "img" : "https://github.com/tilepieces/templates/bootstrap-templates.jpg",
+    "desc" : "bootstrap framework templates examples",
+    "link" : "https://getbootstrap.com/docs/5.1/examples/",
+    "zip" : "https://github.com/tilepieces/templates/releases/download/latest/bootstrap-templates.zip"
+  },
+  {
+    "name": "bulma-templates",
+    "path": "bulma-templates",
+    "desc" : "bulma framework templates examples",
+    "img" : "https://github.com/tilepieces/templates/bulma-templates-screenshot.jpg",
+    "link" : "https://github.com/BulmaTemplates/bulma-templates/releases/tag/0.9",
+    "zip" : "https://github.com/tilepieces/templates/releases/download/latest/bulma-templates.zip"
+  },
+  {
+    "name": "banners",
+    "path": "banners",
+    "desc" : "A collection of advertising banner templates",
+    "img" : "https://github.com/tilepieces/templates/banners.jpg",
+    "zip" : "https://github.com/tilepieces/templates/releases/download/latest/banners.zip"
+  },
+  {
+    "name": "emails",
+    "path": "emails",
+    "desc" : "A collection of templates optimized for mail clients.",
+    "img" : "https://github.com/tilepieces/templates/emails.jpg",
+    "zip" : "https://github.com/tilepieces/templates/releases/download/latest/emails.zip"
+  }
+]

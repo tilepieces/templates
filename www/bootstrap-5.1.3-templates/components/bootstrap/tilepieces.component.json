@@ -1,0 +1,115 @@
+{
+  "name": "bootstrap",
+  "description": "tilepieces component library of https://getbootstrap.com/ version 5.1.3",
+  "version": "5.1.3",
+  "author": "simone di nuovo <dinuovos@gmail.com>",
+  "website": "https://getbootstrap.com/docs/5.1/",
+  "repository": "https://github.com/twbs/bootstrap/",
+  "html": "",
+  "addDependenciesToBundles": false,
+  "bundle": {
+    "stylesheet": {
+      "href": "bootstrap.min.css"
+    },
+    "stylesheetHeader": "",
+    "stylesheetFooter": "",
+    "scriptHeader": "",
+    "scriptFooter": "",
+    "script": {
+      "src": "bootstrap.bundle.min.js"
+    }
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": []
+  },
+  "dependencies": [],
+  "components": {
+    "bootstrap/accordion": {
+      "name": "bootstrap/accordion",
+      "path": "/components/bootstrap/accordion"
+    },
+    "bootstrap/alert": {
+      "name": "bootstrap/alert",
+      "path": "/components/bootstrap/alert"
+    },
+    "bootstrap/badge": {
+      "name": "bootstrap/badge",
+      "path": "/components/bootstrap/badge"
+    },
+    "bootstrap/breadcrumb": {
+      "name": "bootstrap/breadcrumb",
+      "path": "/components/bootstrap/breadcrumb"
+    },
+    "bootstrap/buttons": {
+      "name": "bootstrap/buttons",
+      "path": "/components/bootstrap/buttons"
+    },
+    "bootstrap/button-group": {
+      "name": "bootstrap/button-group",
+      "path": "/components/bootstrap/button-group"
+    },
+    "bootstrap/card": {
+      "name": "bootstrap/card",
+      "path": "/components/bootstrap/card"
+    },
+    "bootstrap/carousel": {
+      "name": "bootstrap/carousel",
+      "path": "/components/bootstrap/carousel"
+    },
+    "bootstrap/close button": {
+      "name": "bootstrap/close button",
+      "path": "/components/bootstrap/close button"
+    },
+    "bootstrap/collapse": {
+      "name": "bootstrap/collapse",
+      "path": "/components/bootstrap/collapse"
+    },
+    "bootstrap/dropdown": {
+      "name": "bootstrap/dropdown",
+      "path": "/components/bootstrap/dropdown"
+    },
+    "bootstrap/list-group": {
+      "name": "bootstrap/list-group",
+      "path": "/components/bootstrap/list-group"
+    },
+    "bootstrap/modal": {
+      "name": "bootstrap/modal",
+      "path": "/components/bootstrap/modal"
+    },
+    "bootstrap/nav&tabs&pills": {
+      "name": "bootstrap/nav&tabs&pills",
+      "path": "/components/bootstrap/nav&tabs&pills/"
+    },
+    "bootstrap/navbar": {
+      "name": "bootstrap/navbar",
+      "path": "/components/bootstrap/navbar/"
+    },
+    "bootstrap/offcanvas": {
+      "name": "bootstrap/offcanvas",
+      "path": "/components/bootstrap/offcanvas"
+    },
+    "bootstrap/pagination": {
+      "name": "bootstrap/pagination",
+      "path": "/components/bootstrap/pagination"
+    },
+    "bootstrap/popover": {
+      "name": "bootstrap/popover",
+      "path": "/components/bootstrap/popover"
+    },
+    "bootstrap/spinners": {
+      "name": "bootstrap/spinners",
+      "path": "/components/bootstrap/spinners"
+    },
+    "bootstrap/tooltip": {
+      "name": "bootstrap/tooltip",
+      "path": "/components/bootstrap/tooltip"
+    }
+  },
+  "mergeMiscellaneous": false,
+  "miscellaneous": [],
+  "selector": "",
+  "interface": "",
+  "fixedHTML": false,
+  "parseHTML": ""
+}

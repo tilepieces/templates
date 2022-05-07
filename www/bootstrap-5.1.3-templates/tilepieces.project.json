@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-5.1.3-templates",
+  "components": {
+    "ckeditor4-tilepieces-component": {
+      "name": "ckeditor4-tilepieces-component",
+      "path": "/components/ckeditor4-tilepieces-component"
+    },
+    "bootstrap": {
+      "name": "bootstrap",
+      "path": "/components/bootstrap"
+    }
+  },
+  "lastFileOpened": "/index.html",
+  "openedPanels": [
+    "package-manager"
+  ],
+  "relativePaths": true,
+  "sandboxFrame": true
+}
