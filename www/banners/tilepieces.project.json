@@ -8,23 +8,5 @@
     "element-panel",
     "html-inspector",
     "component-panel"
-  ],
-  "files": [
-    "banner1.css",
-    "banner1.html",
-    "high-performance-django-ad/dist/index.html",
-    "high-performance-django-ad/dist/style.css",
-    "high-performance-django-ad/license.txt",
-    "high-performance-django-ad/README.markdown",
-    "index.html",
-    "link-snippet.js",
-    "miscellaneous/0ggd0lT.jpg",
-    "miscellaneous/drag-n-drop-small-animation-dark.gif",
-    "miscellaneous/imported.jpg",
-    "pure-css-animated-ad-banner/dist/index.html",
-    "pure-css-animated-ad-banner/dist/style.css",
-    "pure-css-animated-ad-banner/license.txt",
-    "pure-css-animated-ad-banner/README.markdown",
-    "tilepieces.project.json"
   ]
 }

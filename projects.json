@@ -1,11 +1,11 @@
 [
   {
-    "name": "bulma-0.9.3-templates",
-    "path": "www\\bulma-0.9.3-templates"
-  },
-  {
     "name": "bootstrap-5.1.3-templates",
     "path": "www\\bootstrap-5.1.3-templates"
+  },
+  {
+    "name": "bulma-0.9.3-templates",
+    "path": "www\\bulma-0.9.3-templates"
   },
   {
     "name": "banners",
