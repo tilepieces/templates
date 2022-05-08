@@ -22,7 +22,7 @@
     "path": "banners",
     "desc" : "A collection of advertising banner templates",
     "img" : "https://raw.githubusercontent.com/tilepieces/templates/main/banners.jpg",
-    "link" : "www/emails/",
+    "link" : "www/banners/",
     "root" : "https://raw.githubusercontent.com/tilepieces/templates/main/"
   },
   {
