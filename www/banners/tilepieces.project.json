@@ -7,6 +7,7 @@
     "project-explorer",
     "element-panel",
     "html-inspector",
+    "css-viewer",
     "component-panel"
   ]
 }
