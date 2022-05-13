@@ -12,7 +12,8 @@
   },
   "lastFileOpened": "/index.html",
   "openedPanels": [
-    "package-manager"
+    "package-manager",
+    "html-inspector"
   ],
   "relativePaths": true,
   "sandboxFrame": true,
