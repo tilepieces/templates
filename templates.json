@@ -30,7 +30,7 @@
     "path": "emails",
     "desc" : "A collection of templates optimized for mail clients.",
     "img" : "https://raw.githubusercontent.com/tilepieces/templates/main/emails.jpg",
-    "link" : "www/emails/",
+    "link" : "html-mail-template.zip",
     "root" : "https://raw.githubusercontent.com/tilepieces/templates/main/"
   }
 ]

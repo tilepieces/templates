@@ -5,9 +5,7 @@
   "openedPanels": [
     "package-manager",
     "project-explorer",
-    "element-panel",
     "html-inspector",
-    "css-viewer",
     "component-panel"
   ]
 }

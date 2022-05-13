@@ -1,5 +1,9 @@
 [
   {
+    "name": "html mail template",
+    "path": "www\\html mail template"
+  },
+  {
     "name": "banners",
     "path": "www\\banners"
   },
