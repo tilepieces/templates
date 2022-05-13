@@ -8,8 +8,10 @@
   "panelPosition": "right",
   "sandboxFrame": true,
   "componentPath": "components",
-  "miscellaneousDir": "miscellaneous",
+  "miscDir": "miscellaneous",
   "delayUpdateFileMs": 500,
   "imageTypeProcess": 0,
-  "relativePaths": false
+  "relativePaths": false,
+  "skipMatchAll": true,
+  "miscellaneousDir": "miscellaneous"
 }

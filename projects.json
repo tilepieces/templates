@@ -1,11 +1,11 @@
 [
   {
-    "name": "html mail template",
-    "path": "www\\html mail template"
-  },
-  {
     "name": "bootstrap-5.1.3-templates",
     "path": "www\\bootstrap-5.1.3-templates"
+  },
+  {
+    "name": "html mail template",
+    "path": "www\\html mail template"
   },
   {
     "name": "bulma-0.9.3-templates",
